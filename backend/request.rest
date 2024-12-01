@@ -1,0 +1,9 @@
+POST http://localhost/3000/api/services
+Content-Type: application/json
+
+{
+  "name": "Same service",
+  "description": "Same description",
+  "price": 1200,
+  "image": "https://media.npr.org/assets/img/2022/11/04/gettyimages-1183414292-1-_slide-30784f99ac10f059c242d37e91d05ead475854f4.jpg"
+}
